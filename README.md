@@ -1,5 +1,5 @@
 # Print:
-![](https://github.com/trilhafront/projeto-formulario-contato/blob/main/01-form.png)
+<img src="https://github.com/trilhafront/projeto-formulario-contato/blob/main/01-form.png" width="500">
 
 # Funcionalidade
 Envio de formulário de contato.
