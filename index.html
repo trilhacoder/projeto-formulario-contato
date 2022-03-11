@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <title>Projeto Formulário de Contato</title>
+    <meta name="description" content="Formulário de contato para envio de em-mail usando uma API.">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+    <script src="api.js" defer></script>
+  </head>
+  <body>
+    <form class="formulario" id="formulario">
+      <h1 class="formulario__titulo">Contato</h1>
+
+      <p class="formulario__mensagens" id="mensagens"></p>
+
+      <label class="formulario__rotulo">Nome *</label><br>
+      <input class="formulario__campo" name="nome" type="text"><br><br>
+
+      <label class="formulario__rotulo">E-mail *</label><br>
+      <input class="formulario__campo" name="email" type="text"><br><br>
+
+      <label class="formulario__rotulo">Assunto *</label><br>
+      <input class="formulario__campo" name="assunto" type="text"><br><br>
+
+      <label class="formulario__rotulo">Mensagem *</label><br>
+      <textarea class="formulario__campo formulario__campo-mensagem" name="mensagem"></textarea>
+
+      <p class="formulario__campos-obrigatorios">* campos com preenchimento obrigatório</p><br>
+
+      <button class="formulario__botao formulario__botao--ativo" type="submit">Enviar</button>
+    </form>    
+  </body>
+</html>

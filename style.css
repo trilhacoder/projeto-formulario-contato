@@ -1,0 +1,54 @@
+.formulario {
+  width: 596px;
+  padding: 37px;
+  color: #ffffff;
+  border-radius: 5px;
+  background-color: #065FD4;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.formulario__titulo {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.formulario__mensagens, formulario__rotulo {
+  font-size: 18px;
+}
+
+.formulario__campo {
+  border-radius: 5px;
+  width: 100%;
+  height: 30px;
+  border: 2px solid #ffffff;
+}
+
+.formulario__campo-mensagem {
+  height: 104px;
+}
+
+.formulario__campo-invalido {
+  border: 2px solid #ff0000;
+}
+
+.formulario__campos-obrigatorios {
+  font-size: 12px
+}
+
+.formulario__botao {
+  width: 140px;
+  height: 42px;
+  border-radius: 5px;
+  border: 0;
+  background-color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.formulario__botao--ativo:hover {
+  background-color: yellow;
+}
