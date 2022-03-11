@@ -51,3 +51,8 @@ https://www.figma.com/file/YRZqnGOcE0ztlqN4A7omem/Projeto-Formul%C3%A1rio-de-Con
 ## Refatorando o código
 * Organizar o index.js em funções menores e reutilizáveis
 * Isolar a chamada da API em outro arquivo .js
+
+## Hospedando o projeto na internet!
+* Criando o projeto no GitHub
+* Publicando o projeto com o GitHub Pages
+* Acessando o projeto na Internet! 
