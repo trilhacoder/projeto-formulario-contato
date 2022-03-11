@@ -12,7 +12,7 @@ Envio de formulário de contato.
 5. Se ocorrer algum erro no envio do formulário, exibir a mensagem: "Ocorreu um erro ao tentar enviar o formulário: <detalhes do erro>"
 
 # Design
-https://www.figma.com/file/nx4GKpemLgIla2CWNpBQGF/Projeto-Formul%C3%A1rio-de-Contato
+https://www.figma.com/file/YRZqnGOcE0ztlqN4A7omem/Projeto-Formul%C3%A1rio-de-Contato
 
 # Front-end
 
